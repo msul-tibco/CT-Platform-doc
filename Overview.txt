@@ -9,8 +9,5 @@ Start and manage a new branch
 Make changes to a file and push them to GitHub Enterprise Cloud as commits
 Open and merge a pull request
 
+added the commit files and format
 
-
-
-
-Changed the comit files
